@@ -56,3 +56,7 @@
 # 0.0.0.0 datasync.sibbo.net
 # 0.0.0.0 consentssync.sibbo.net
 # 0.0.0.0 eic.service.lgtvcommon.com
+! Netflix tracking.
+
+0.0.0.0 ichnaea.netflix.com
+0.0.0.0 customerevents.netflix.com
