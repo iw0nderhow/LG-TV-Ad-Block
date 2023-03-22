@@ -11,7 +11,7 @@
 0.0.0.0 www.ueiwsp.com
 0.0.0.0 unagi-eu.amazon.com
 # 0.0.0.0 ipv6.unagi-na.amazon.com
-0.0.0.0 eic-gfts.lge.com
+# 0.0.0.0 eic-gfts.lge.com ! required for app updates
 # 0.0.0.0 eic-op-lss.lgthinq.com
 # 0.0.0.0 lss.lgthinq.com
 # 0.0.0.0 eic.api.lgtviot.com
