@@ -1,6 +1,7 @@
 0.0.0.0 eic.recommend.lgtvcommon.com
 0.0.0.0 eic.sports.lgtviot.com
 # 0.0.0.0 images.pluto.tv
+0.0.0.0 app-lgwebos.pluto.tv
 0.0.0.0 discovery.meethue.com
 0.0.0.0 eic.homeprv.lgtvcommon.com
 0.0.0.0 eic.lgtviot.com
@@ -8,9 +9,9 @@
 # 0.0.0.0 de.lgeapi.com
 # 0.0.0.0 eic.nudge.lgtvcommon.com
 0.0.0.0 www.ueiwsp.com
-0.0.0.0 unagi-na.amazon.com
-0.0.0.0 ipv6.unagi-na.amazon.com
-# 0.0.0.0 eic-gfts.lge.com
+0.0.0.0 unagi-eu.amazon.com
+# 0.0.0.0 ipv6.unagi-na.amazon.com
+0.0.0.0 eic-gfts.lge.com
 # 0.0.0.0 eic-op-lss.lgthinq.com
 # 0.0.0.0 lss.lgthinq.com
 # 0.0.0.0 eic.api.lgtviot.com
